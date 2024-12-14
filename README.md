@@ -52,7 +52,6 @@ The hardware implementation includes the following modules:
 - **Data Memory (DM):** RAM module for input/output data.
 
 ## Results
-- **Dynamic Instruction Count:** Efficient instruction sequence for optimized program execution.
 - **Final Output:** Correctly computed results in data memory, validated against expected outputs.
 
 ## How to Use
