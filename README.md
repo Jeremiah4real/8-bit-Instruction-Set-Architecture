@@ -4,7 +4,7 @@ An 8 bit ISA (Built using circuitverse.org)
 # 8-bit CPU Design in CircuitVerse
 
 ## Description
-This project involves designing and implementing an 8-bit CPU with a custom instruction set architecture (ISA) optimized for the Alphabet Count Array program. The CPU supports 32-bit data operations and single-cycle instruction execution.
+This project involves designing and implementing an 8-bit CPU with a custom instruction set architecture (ISA). The CPU supports 32-bit data operations and single-cycle instruction execution.
 
 ## Features
 - **Custom ISA:** Designed with 8-bit instructions and 32-bit registers, supporting efficient execution of array computation tasks.
