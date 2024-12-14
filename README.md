@@ -33,7 +33,7 @@ The ISA includes the following instructions (examples included):
 
 ## Example Program: Alphabet Count Project
     ### Program Description
-    - **Part A:** Initializes an array `A[0] - A[15]` in data memory. The first two values, `A[0]` and `A[1]`, are set to specific numbers. The remaining values, `A[2]` through `A[15]`, are calculated using the       recurrence relation:  
+    - **Part A:** Initializes an array `A[0] - A[15]` in data memory. The first two values, `A[0]` and `A[1]`, are set to specific numbers. The remaining values, `A[2]` through `A[15]`, are calculated using the recurrence relation:  
     [ A[i] = A[i-1] - 2 * A[i-2]]
     
     - **Part B:** Processes the array `A[0] - A[15]` to compute a derived array `B[0] - B[15]`. Each entry in `B` counts the number of hexadecimal digits (letters A-F) present in the corresponding value of `A`.
@@ -63,5 +63,3 @@ The hardware implementation includes the following modules:
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-
-Feel free to explore the code, suggest improvements, and build upon this work!
