@@ -56,7 +56,7 @@ The hardware implementation includes the following modules:
 - **Final Output:** Correctly computed results in data memory, validated against expected outputs.
 
 ## How to Use
-1. View the hardware implementation on [CircuitVerse](#).
+1. View the hardware implementation at https://circuitverse.org/users/216627/projects/8-bit-isa.
 2. Analyze the results in the data memory and control flow through the CPU design.
 
 ## License
